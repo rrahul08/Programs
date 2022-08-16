@@ -13,6 +13,6 @@ int pow(int a,int b)
 }
 int main()
 {
-  pow(4,5);
+  cout<<pow(4,5);
     return 0;
 }
